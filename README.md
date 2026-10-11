@@ -2,7 +2,7 @@
 
 A console-based banking system that simulates core banking operations using structures, file handling, authentication, transaction management, loan processing, activity logging, and basic fraud detection mechanism.
 
-# Key Features
+## Key Features
 <ul>
 <li><b>User Authentication & Registration</b></li>
 <ul>
