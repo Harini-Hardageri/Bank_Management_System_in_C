@@ -42,11 +42,11 @@ A console-based banking system  in C that simulates core banking operations usin
 
 <li><b>Fraud Detection & Security</b></li>
 <ul>
-<li>Detection of multiple failed login attempts.</li>
+<li>Detection of multiple failed login attempts continuously.</li>
 <li>Rapid withdrawal detection.</li>
 <li>Daily withdrawal limit monitoring.</li>
 <li>Large withdrawal and transfer alerts.</li>
-<li>Fraud events are recorded in dedicated fraud logs.</li>
+<li>Fraud alerts are recorded in dedicated fraud alert logs.</li>
 <li>Session timeout after inactivity.</li>
 </ul>
 
