@@ -53,7 +53,7 @@ A console-based banking system  in C that simulates core banking operations usin
 <li><b>Logging & File-Based Storage</b></li>
 <ul>
 <li>User and administrator activities are recorded in system logs.</li>
-<li>Binary files are used to store users, accounts, transactions, and loans.</li>
+<li>Binary files are used to store users, accounts, transactions, and loans records.</li>
 <li>Separate logs are maintained for fraud-related activities.</li>
 <li>Bank statements can be generated as text files.</li>
 </ul>
