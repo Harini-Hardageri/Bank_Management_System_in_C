@@ -47,13 +47,14 @@ A console-based banking system  in C that simulates core banking operations usin
 <li>Daily withdrawal limit monitoring.</li>
 <li>Large withdrawal and transfer alerts.</li>
 <li>Fraud alerts are recorded in dedicated fraud alert logs.</li>
+<li>Password validation, suspended account handling</li>
 <li>Session timeout after inactivity.</li>
 </ul>
 
 <li><b>Logging & File-Based Storage</b></li>
 <ul>
 <li>User and administrator activities are recorded in system logs.</li>
-<li>Binary files are used to store users, accounts, transactions, and loans records.</li>
+<li>Binary files are used to store users, accounts, transactions, and loan records.</li>
 <li>Separate logs are maintained for fraud-related activities.</li>
 <li>Bank statements can be generated as text files.</li>
 </ul>
